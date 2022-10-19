@@ -1,0 +1,25 @@
+.team{
+  display: flex;
+  div{
+    width: 200px;
+    margin-bottom: 16px;
+  }
+}
+.group{
+  padding: 10px;
+}
+
+.men{
+  border: 1px solid  #664de5;
+margin-right: 12px;
+  padding: 13px;
+  border-radius: 10px;
+}
+
+.create_btn{
+  width:412px;
+  margin-top: 10px;
+  background-color: #664de5 !important;
+  border-color: white !important;
+}
+
